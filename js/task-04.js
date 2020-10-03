@@ -26,7 +26,7 @@
 //   return string;
 // }
 
-// 3  вариант решения
+ 3  вариант решения
 // function formatString(string, maxLength = 40) {
 //   if (string.length < maxLength) {
 //     return string;
